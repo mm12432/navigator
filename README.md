@@ -10,10 +10,8 @@
   * [5.开发工具](#开发工具)
   * [6.学习教程](#学习教程)
   * [7.心得体会](#心得体会)
-  * [8.体育](#体育)
-  * [9.影视](#影视)
-  * [10.其他](#其他)
-
+  * [8.其他](#其他)
+  
 ## 常用主页
   
   Google翻译，国内为数不多的能用的Google服务。[http://translate.google.cn/](http://translate.google.cn/)
@@ -90,6 +88,8 @@
   
   [.net mvc filter详解](http://www.cnblogs.com/xlhblogs/p/3349972.html)
   
+  [vsto证书](http://social.technet.microsoft.com/Forums/scriptcenter/zh-CN/4e4955f7-8296-43cd-98fc-9f33d1a5a4b8/vsto-)
+  
 ## 开发工具
   
   [微软cdn](http://www.asp.net/ajax/cdn)
@@ -98,10 +98,15 @@
   
   [nodejs下载](https://nodejs.org/en/download/)
   
-  
 ## 学习教程
   
-  [我爱公开课](http://52opencourse.com/)
+  Coursera，世界上最好的在线教育网站，之一是什么？好吃吗？[世界官网](https://www.coursera.org/)|[中国官网](https://zh.coursera.org/)
+  
+  网易公开课，国内第一个把国外公开课引入国内的媒体，就一个字，良心。[http://open.163.com/](http://open.163.com/)
+  
+  中国大学MOOC，国内不错的在线教育平台。[http://www.icourse163.org/](http://www.icourse163.org/)
+  
+  公开课笔记[我爱公开课](http://52opencourse.com/)
   
   [git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
   
@@ -109,8 +114,12 @@
   
   [安装npm](http://jingyan.baidu.com/article/a17d528506d7f58098c8f2b0.html)
   
+  [Think in VML](http://www.itlearner.com/code/vml)
+  
+  [正则表达式](http://manual.phpv.net/regular_expression.html)
+  
 ## 心得体会
-
+  
   [什么是业务逻辑](http://www.cnblogs.com/leoo2sk/archive/2009/10/29/1592568.html)
   
   [Entity Framework 7 心得](http://www.cnblogs.com/CreateMyself/p/4796724.html)
@@ -131,10 +140,15 @@
   
   [何为phd](http://www.zhihu.com/question/20398280)
   
-## 体育
-
-
-## 影视
-
-
+  [服务器push](http://topic.csdn.net/u/20081125/17/a3ecaefe-86e6-4ead-80a2-537650b17405.html)
+  
+  [表达式](http://www.ibm.com/developerworks/cn/java/j-w3eva/index.html)
+  
 ## 其他
+  
+  开发者论坛，低调[http://www.dxper.net/](http://www.dxper.net/)
+  
+  [信息化规划](http://baike.baidu.com/view/1866764.htm)
+  
+  [企业级开发](http://www.cnblogs.com/cntosoft/archive/2012/05/28/2521332.html)
+  
