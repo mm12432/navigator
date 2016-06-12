@@ -7,7 +7,7 @@
   * [2.社区讨论](#社区讨论)
   * [3.数据分析](#数据分析)
   * [4.DotNet开发](#dotnet开发)
-  * [5.Web开发](#web开发)
+  * [5.开发工具](#开发工具)
   * [6.学习教程](#学习教程)
   * [7.心得体会](#心得体会)
   * [8.体育](#体育)
@@ -15,7 +15,7 @@
   * [10.其他](#其他)
 
 ## 常用主页
-
+  
   Google翻译，国内为数不多的能用的Google服务。[http://translate.google.cn/](http://translate.google.cn/)
   
   海词，比较好的追求‘真理’的网站。[http://dict.cn/](http://dict.cn/)
@@ -29,9 +29,9 @@
   Coding.net，国内的git托管库，可建立私有项目，仓库有1G容量限制。[https://coding.net/](https://coding.net/)
   
   开源中国，国内最大的开源社区，接触较少，应该还不错。[http://www.oschina.net/](http://www.oschina.net/)
-
+  
 ## 社区讨论
-
+  
   看雪论坛，国内比较知名的安全论坛，曾出过经典书籍《加密与解密》。[http://bbs.pediy.com/](http://bbs.pediy.com/)
   
   博客园，国内码农家园。[http://www.cnblogs.com/](http://www.cnblogs.com/)
@@ -44,12 +44,10 @@
   
   nga，国内外知名的wow论坛，后被178收购，标准较高，喷子较多。[http://bbs.ngacn.cc/](http://bbs.ngacn.cc/)
   
-  [知乎问题关于angular](http://www.zhihu.com/question/21151483)
+  [知乎三大软狗之一赵劼](http://blog.zhaojie.me/)
   
-  
-
 ## 数据分析
-
+  
   hadoop官网，google论文mapreduce,gfs的直接产物，分布式数据计算框架先驱。[http://hadoop.apache.org/](http://hadoop.apache.org/)
   
   hbase官网，分布式列数据库，google论文bigtable的直接产物。[http://hbase.apache.org/](http://hbase.apache.org/)
@@ -68,24 +66,71 @@
   
   Python常用的win编译后的安装包[PythonExtensionPackages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
   
-  [关于分类变量的处理](http://www.zhihu.com/question/38438477)
-
-## DotNet开发
-
-  [.net中的数据挖掘](http://www.cnblogs.com/asxinyu/)
+  [数据分析师杂谈](http://bbs.pinggu.org/thread-4493369-1-1.html)
   
-
-## Web开发
-
-
+## DotNet开发
+  
+  [aspnet5官方文档](https://docs.asp.net/en/latest/)
+  
+  [.net中的开源项目](http://www.cnblogs.com/asxinyu/)
+  
+  [解读asp.net5和mvc6](http://www.cnblogs.com/TomXu/p/4496545.html)
+  
+  [c#常用数据结构](http://www.cnblogs.com/gaochundong/p/3813252.html)
+  
+  [IronPython](http://blog.csdn.net/jiangxinyu/article/details/9022419)
+  
+  [ASP.NET Identity登录原理](http://www.tuicool.com/articles/rem2umi)
+  
+  [Async 和 Await](https://msdn.microsoft.com/zh-cn/library/hh191443.aspx)
+  
+  [EF开发](https://msdn.microsoft.com/zh-cn/data/ee712907)
+  
+  [webtools.net白皮书](http://www.microsoft.com/en-us/download/details.aspx?id=46417)
+  
+  [.net mvc filter详解](http://www.cnblogs.com/xlhblogs/p/3349972.html)
+  
+## 开发工具
+  
+  [微软cdn](http://www.asp.net/ajax/cdn)
+  
+  [git下载](http://git-scm.com/download/win)
+  
+  [nodejs下载](https://nodejs.org/en/download/)
+  
+  
 ## 学习教程
-
-
+  
+  [我爱公开课](http://52opencourse.com/)
+  
+  [git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+  
+  [用vscode开发asp.net](http://www.cnblogs.com/chenxizhang/p/4805616.html)
+  
+  [安装npm](http://jingyan.baidu.com/article/a17d528506d7f58098c8f2b0.html)
+  
 ## 心得体会
 
   [什么是业务逻辑](http://www.cnblogs.com/leoo2sk/archive/2009/10/29/1592568.html)
   
-
+  [Entity Framework 7 心得](http://www.cnblogs.com/CreateMyself/p/4796724.html)
+  
+  [关于分类变量的处理](http://www.zhihu.com/question/38438477)
+  
+  [知乎问题关于angular](http://www.zhihu.com/question/21151483)
+  
+  [关于Oauth](http://www.cnblogs.com/dudu/p/oauth-dotnetopenauth-client-credentials-grant.html)
+  
+  [jquery小技巧](http://www.oschina.net/news/67792/35-jquery-skills)
+  
+  [深刻的闭包理解](http://kb.cnblogs.com/page/110782/)
+  
+  [面试常用算法](http://www.csdn.net/article/2014-04-10/2819237-Top-10-Algorithms-for-Coding-Interview)
+  
+  [css预编译框架比较](http://www.oschina.net/question/12_44255?p=4&sort=default)
+  
+  [何为phd](http://www.zhihu.com/question/20398280)
+  
 ## 体育
 
 
