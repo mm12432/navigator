@@ -42,10 +42,25 @@
   
   水木社区，前身水木清华BBS。[http://www.newsmth.net/](http://www.newsmth.net/)
   
-  nga,国内外知名的wow论坛，后被178收购，标准较高，喷子较多。[http://bbs.ngacn.cc/](http://bbs.ngacn.cc/)
+  nga，国内外知名的wow论坛，后被178收购，标准较高，喷子较多。[http://bbs.ngacn.cc/](http://bbs.ngacn.cc/)
 
 ## 数据分析
 
+  hadoop官网，google论文mapreduce,gfs的直接产物，分布式数据计算框架先驱。[http://hadoop.apache.org/](http://hadoop.apache.org/)
+
+  hbase官网，分布式列数据库，google论文bigtable的直接产物。[http://hbase.apache.org/](http://hbase.apache.org/)
+
+  zookeeper官网，hadoop的管理员角色，为各种服务提供HA机制。[https://zookeeper.apache.org/](https://zookeeper.apache.org/)
+
+  oozie官网，hadoop工作流引擎，调度各种任务。[http://oozie.apache.org/](http://oozie.apache.org/)
+
+  hive官网，将hsql转化成mr程序的数据仓库，用于离线分析计算。[https://hive.apache.org/](https://hive.apache.org/)
+
+  sqoop官网，RDBMS和以hdfs为存储介质的数据交换工具。[http://sqoop.apache.org/](http://sqoop.apache.org/)
+
+  flume官网，分布式日志采集工具。[http://flume.apache.org/](http://flume.apache.org/)
+
+  elasticsearch官网，一个基于lucene的分布式搜索引擎产品。[https://www.elastic.co/products/elasticsearch/](https://www.elastic.co/products/elasticsearch/)
 
 ## DotNet开发
 
