@@ -61,10 +61,16 @@
   flume官网，分布式日志采集工具。[http://flume.apache.org/](http://flume.apache.org/)
   
   elasticsearch官网，一个基于lucene的分布式搜索引擎产品。[https://www.elastic.co/products/elasticsearch/](https://www.elastic.co/products/elasticsearch/)
+
+  spark官网，号称替代hadoop的计算框架。[http://spark.apache.org/](http://spark.apache.org/)
   
   Python常用的win编译后的安装包[PythonExtensionPackages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
   
   [数据分析师杂谈](http://bbs.pinggu.org/thread-4493369-1-1.html)
+
+  [一个很好的关于Deep Learning的心得体会](http://blog.csdn.net/zouxy09/article/category/1387932)
+  
+  [计算机语言关于数据分析的类库列表](https://github.com/josephmisiti/awesome-machine-learning/tree/master#go-general-purpose)
   
 ## DotNet开发
   
