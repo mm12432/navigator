@@ -72,6 +72,8 @@
   
   [计算机语言关于数据分析的类库列表](https://github.com/josephmisiti/awesome-machine-learning/tree/master#go-general-purpose)
   
+  知乎关于[如何快速的成为数据分析师](https://www.zhihu.com/question/29265587)
+  
 ## DotNet开发
   
   [aspnet5官方文档](https://docs.asp.net/en/latest/)
