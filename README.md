@@ -74,6 +74,8 @@
   
   知乎关于[如何快速的成为数据分析师](https://www.zhihu.com/question/29265587)
   
+  coursera台湾大学心得随笔[机器学习笔记](http://www.cnblogs.com/HappyAngel/category/348262.html)
+  
 ## DotNet开发
   
   [aspnet5官方文档](https://docs.asp.net/en/latest/)
