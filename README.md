@@ -76,6 +76,8 @@
   
   coursera台湾大学心得随笔[机器学习笔记](http://www.cnblogs.com/HappyAngel/category/348262.html)
   
+  [关于分类变量的处理](http://www.zhihu.com/question/38438477)
+  
 ## DotNet开发
   
   [aspnet5官方文档](https://docs.asp.net/en/latest/)
@@ -133,8 +135,6 @@
   [什么是业务逻辑](http://www.cnblogs.com/leoo2sk/archive/2009/10/29/1592568.html)
   
   [Entity Framework 7 心得](http://www.cnblogs.com/CreateMyself/p/4796724.html)
-  
-  [关于分类变量的处理](http://www.zhihu.com/question/38438477)
   
   [知乎问题关于angular](http://www.zhihu.com/question/21151483)
   
