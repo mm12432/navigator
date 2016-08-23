@@ -78,6 +78,8 @@
   
   [关于分类变量的处理](http://www.zhihu.com/question/38438477)
   
+  [andrew ng发布的关于deep learning的教程翻译](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
+  
 ## DotNet开发
   
   [aspnet5官方文档](https://docs.asp.net/en/latest/)
